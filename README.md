@@ -31,7 +31,7 @@ Hermes auto-discovers anything under `~/.hermes/skills/` — no restart needed.
 | Category | Skills | Hermes ports | Status |
 |----------|-------:|-------------:|--------|
 | [AI & LLMs](categories/ai-and-llms.md) | 185 | 0 | ⬜ |
-| [Apple Apps & Services](categories/apple-apps-and-services.md) | 44 | 0 | ⬜ |
+| [Apple Apps & Services](categories/apple-apps-and-services.md) | 44 | 9 | 🟡 |
 | [Browser & Automation](categories/browser-and-automation.md) | 323 | 0 | ⬜ |
 | [Calendar & Scheduling](categories/calendar-and-scheduling.md) | 66 | 0 | ⬜ |
 | [Clawdbot Tools](categories/clawdbot-tools.md) | 37 | 0 | ⬜ |
@@ -60,7 +60,7 @@ Hermes auto-discovers anything under `~/.hermes/skills/` — no restart needed.
 | [Speech & Transcription](categories/speech-and-transcription.md) | 46 | 0 | ⬜ |
 | [Transportation](categories/transportation.md) | 110 | 0 | ⬜ |
 | [Web & Frontend Development](categories/web-and-frontend-development.md) | 925 | 0 | ⬜ |
-| **TOTAL** | **5,378** | **0** | **0%** |
+| **TOTAL** | **5,378** | **9** | **0.2%** |
 
 ---
 
